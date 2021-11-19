@@ -40,4 +40,14 @@ There are a lot of fun in security:)
 	<img src="./img/jenkins.svg" width="40" height="40" alt="jenkins" />
 	<img src="./img/github.svg" width="40" height="40" alt="github" />
 	<img src="./img/git.svg" width="40" height="40" alt="git" />
+	<img src="./img/c.svg" width="40" height="40" alt="c" />
+	<img src="./img/c++.svg" width="40" height="40" alt="c++" />
+	<img src="./img/asm.svg" width="40" height="40" alt="asm" />
+	<img src="./img/ghidra.svg" width="40" height="40" alt="ghidra" />
+	<img src="./img/python.svg" width="40" height="40" alt="python" />
+	<img src="./img/java.svg" width="40" height="40" alt="java" />
+	<img src="./img/laravel.svg" width="40" height="40" alt="laravel" />
+	<img src="./img/ida.svg" width="40" height="40" alt="ida" />
+	<img src="./img/autopsy.svg" width="40" height="40" alt="autopsy" />
+	<img src="./img/bat.svg" width="40" height="40" alt="bat" />
 </p>
