@@ -1,7 +1,7 @@
 ### <p align="center"> Hi👋, 我是 Kevin 智元 </p>
 
 來自台灣高雄一條有夢想的鹹魚 🐳,目前就讀於中央大學資管系(莫名其妙修了一堆資工的課),NCU DSC的一,在資安 🛡️ 的路上前進,偶爾刷刷 Leetcode,只不過路上有好多坑要填 QQ
-到處都有大佬 🛐 在推坑好多看起來好棒的東西
+到處都有大佬 🛐 在推坑好多看起來好棒的東西，下學期設課目標是教資安，雖然感覺有點困難，就試試看了
 
 <p align="center">
 Hi😺, my name is Kevin , I live in Kaohsiung and I study in National university MIS(but I study more course in CS XD).I want to become a security analyst, but before success, there are a lot of knowledge that I need to learn.
