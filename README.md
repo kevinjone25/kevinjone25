@@ -31,7 +31,7 @@ There are a lot of fun in security:)
 	
 </p>
 <p align="center">
-<a href="https://app.daily.dev/idisused"><img src="https://api.daily.dev/devcards/857bf1496b7e433696b7abfc3114e0e3.png?r=s94" width="400" alt="Zhengyuan's Dev Card"/></a>
+<a href="https://app.daily.dev/idisused"><img src="https://api.daily.dev/devcards/857bf1496b7e433696b7abfc3114e0e3.png?r=pfz" width="400" alt="Zhengyuan's Dev Card"/></a>
 </p>
 
 ### Languages and Tools:
