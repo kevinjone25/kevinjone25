@@ -15,6 +15,7 @@ There are a lot of fun in security:)
 
 ### <p align="center"> 🛡️What I cannot create , I do not understand🛡️ </p>
 
+### <p align="center"> 🛡️If you want to go fast, go alone. If you want to go far, go together.🛡️ </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2333B3EB&center=true&vCenter=true&width=470&lines=Misc+is+FUN;Pwn+is+Hard;Never+gonna+give+you+up;Let+us+code+in+future+far">
 </p>
