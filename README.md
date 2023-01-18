@@ -33,6 +33,4 @@ There are a lot of fun in security:)
 </p>
 
 
-### Languages and Tools:
-
 
