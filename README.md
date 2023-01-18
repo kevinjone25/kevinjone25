@@ -35,27 +35,4 @@ There are a lot of fun in security:)
 
 ### Languages and Tools:
 
-<p align="center">
-	<img src="./img/html.svg" width="40" height="40" alt="html" />
-	<img src="./img/css.svg" width="40" height="40" alt="css" />
-	<img src="./img/javascript.svg" width="40" height="40" alt="javascript" />
-	<img src="./img/bootstrap.svg" width="40" height="40" alt="bootstrap" />
-	<img src="./img/nodejs.svg" width="40" height="40" alt="node" />
-	<img src="./img/nginx.svg" width="40" height="40" alt="nginx" />
-	<img src="./img/linux.svg" width="40" height="40" alt="linux" />
-	<img src="./img/docker.svg" width="40" height="40" alt="docker" />
-	<img src="./img/mysql.svg" width="40" height="40" alt="mysql" />
-	<img src="./img/jenkins.svg" width="40" height="40" alt="jenkins" />
-	<img src="./img/github.svg" width="40" height="40" alt="github" />
-	<img src="./img/git.svg" width="40" height="40" alt="git" />
-	<img src="./img/c.svg" width="40" height="40" alt="c" />
-	<img src="./img/c++.svg" width="40" height="40" alt="c++" />
-	<img src="./img/asm.svg" width="40" height="40" alt="asm" />
-	<img src="./img/ghidra.svg" width="40" height="40" alt="ghidra" />
-	<img src="./img/python.svg" width="40" height="40" alt="python" />
-	<img src="./img/java.svg" width="40" height="40" alt="java" />
-	<img src="./img/laravel.svg" width="40" height="40" alt="laravel" />
-	<img src="./img/ida.svg" width="40" height="40" alt="ida" />
-	<img src="./img/autopsy.svg" width="40" height="40" alt="autopsy" />
-	<img src="./img/bat.svg" width="40" height="40" alt="bat" />
-</p>
+
