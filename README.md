@@ -1,7 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2333B3EB&center=true&vCenter=true&width=470&lines=Misc+is+FUN;Pwn+is+Hard;Never+gonna+give+you+up;Let+us+code+in+future+far">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2333B3EB&center=true&vCenter=true&width=470&lines=Pwn+is+Hard;Never+gonna+give+you+up;Let+us+code+in+future+far">
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F70C0C&center=true&vCenter=true&width=470&lines=Happy+New+year">
+</p>
 <p dir="auto"><a href="https://github.com/404"><img src="./img/line.gif" style="max-width: 100%;"></a></p>
 
 <p align="center">
